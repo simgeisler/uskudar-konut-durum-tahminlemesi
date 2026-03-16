@@ -28,17 +28,17 @@ Gayrimenkul sektöründe konutun durumu, fiyatlandırma ve pazarlama stratejiler
 
 ### 3. Özellik Seçimi (Feature Selection)
 - Korelasyon matrisi (heatmap) kullanılarak hedef değişkeni en çok etkileyen ve multicollinearity yaratmayan değişkenler seçildi.
-- ![Image](https://github.com/user-attachments/assets/783ccc76-c12c-4744-be43-0881b08fffdd) 
+  ![Image](https://github.com/user-attachments/assets/783ccc76-c12c-4744-be43-0881b08fffdd) 
 - **Seçilen Özellikler:** `fiyat`, `bina_yasi`, `isitma`, `asansor`, `otopark`.
 
 ---
 
 ## 🤖 Model Eğitimi ve Algoritmalar
 Projede test edilen algoritmalar:  
-- **Lojistik Regresyon:** Binary sınıflandırma için olasılık temelli tahmin  
-- **Karar Ağaçları (Decision Tree):** Özelliklere göre dallanan akış şeması  
-- **Random Forest:** Birden fazla karar ağacının oylama mekanizması  
-- Diğer: SVM, Naive Bayes, KNN  
+  **Lojistik Regresyon:** Binary sınıflandırma için olasılık temelli tahmin  
+  **Karar Ağaçları (Decision Tree):** Özelliklere göre dallanan akış şeması  
+  **Random Forest:** Birden fazla karar ağacının oylama mekanizması  
+  **Diğer**: SVM, Naive Bayes, KNN  
 
 ---
 
