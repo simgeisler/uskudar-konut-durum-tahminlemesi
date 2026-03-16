@@ -1,0 +1,251 @@
+fiyat,m2_brut,m2_net,oda_sayisi,bina_yasi,bulundugu_kat,kat_sayisi,isitma,balkon,banyo_sayısı,asansor,otopark,site_icerisinde,aidat,tapu_durumu,mahalle,daire_durum
+3300000,75,65,2+1,31,3,3,Doğalgaz,Var,1,Yok,Yok,Hayır,100,Kat Mülkiyetli,Mimar Sinan,ikinci el
+5500000,70,67,2+1,21,1,5,Doğalgaz,Yok,2,Yok,Yok,Hayır,100,Kat Mülkiyetli,Mimar Sinan,ikinci el
+4500000,80,75,2+1,26,4,4,Doğalgaz,Var,1,Yok,Yok,Hayır,,Hisseli Tapu,Mimar Sinan,ikinci el
+5350000,87,80,2+1,0,-1,6,Yerden Isıtmalı,Var,1,Var,Yok,Hayır,,Kat İrtifaklı,Mimar Sinan,sıfır
+12800000,120,105,2+1,3,1,10,Doğalgaz,Var,2,Var,Var,Evet,,Kat Mülkiyetli,Mimar Sinan,ikinci el
+10500000,140,130,3+1,0,5,5,Doğalgaz,Var,2,Var,Yok,Hayır,,Kat Mülkiyetli,Mimar Sinan,sıfır
+10950000,154,120,3+2,0,5,5,Doğalgaz,,2,Var,Var,Hayır,,Kat Mülkiyetli,Mimar Sinan,sıfır
+10500000,160,130,3+2,0,5,5,Doğalgaz,Var,2,Var,Var,Hayır,,Kat Mülkiyetli,Mimar Sinan,sıfır
+13500000,140,122,3+1,0,3,5,Doğalgaz,Var,1,Var,Yok,Hayır,,Kat Mülkiyetli,Mimar Sinan,sıfır
+4750000,70,65,2+1,0,-2,5,Doğalgaz,Var,1,Yok,Yok,Hayır,,Kat Mülkiyetli,Mimar Sinan,sıfır
+11500000,150,125,4+1,0,5,5,Doğalgaz,Var,2,Var,Yok,Hayır,,Kat Mülkiyetli,Mimar Sinan,sıfır
+5000000,95,85,2+1,26,4,5,Doğalgaz,Var,1,Yok,Yok,Hayır,,Kat İrtifaklı,Mimar Sinan,ikinci el
+5125000,90,80,2+1,0,-2,5,Doğalgaz,Yok,1,Var,Yok,Hayır,,Kat Mülkiyetli,Mimar Sinan,sıfır
+3500000,115,110,3+1,26,-1,5,Doğalgaz,Var,1,Yok,Yok,Hayır,250,Kat İrtifaklı,Mimar Sinan,ikinci el
+4750000,65,60,2+1,0,-2,5,Doğalgaz,Var,1,Var,Yok,Hayır,500,Kat Mülkiyetli,Mimar Sinan,sıfır
+4750000,75,70,2+1,0,-2,4,Doğalgaz,Var,1,Var,Yok,Hayır,,Kat Mülkiyetli,Mimar Sinan,sıfır
+2700000,85,80,2+1,31,2,4,Doğalgaz,Var,1,Yok,Yok,Hayır,150,Kat Mülkiyetli,Mimar Sinan,ikinci el
+7300000,85,75,2+1,0,3,4,Doğalgaz,Var,1,Var,Yok,Hayır,,Kat İrtifaklı,Mimar Sinan,sıfır
+7800000,180,160,4+1,21,4,4,Doğalgaz,Var,2,Yok,Yok,Hayır,100,Kat İrtifaklı,Mimar Sinan,ikinci el
+7500000,70,65,2+1,0,3,4,Doğalgaz,Yok,1,Var,Var,Hayır,500,Kat İrtifaklı,Mimar Sinan,ikinci el
+6250000,75,70,2+1,0,1,5,Doğalgaz,Var,1,Var,Yok,Hayır,150,Kat Mülkiyetli,Mimar Sinan,sıfır
+2600000,70,60,1+1,31,0,5,Doğalgaz,Var,1,Yok,Yok,Hayır,,Kat Mülkiyetli,Mimar Sinan,ikinci el
+3650000,95,80,2+1,31,0,4,Doğalgaz,Var,1,Yok,Yok,Hayır,,Kat Mülkiyetli,Mimar Sinan,ikinci el
+5600000,130,120,3+1,31,4,4,Doğalgaz,Var,1,Yok,Var,Evet,150,Kat Mülkiyetli,Mimar Sinan,ikinci el
+4350000,80,70,2+1,1,-1,4,Yerden Isıtmalı,Var,1,Var,Yok,Hayır,,Kat İrtifaklı,Mimar Sinan,sıfır
+2700000,90,80,2+1,31,2,4,Doğalgaz,Var,2,Yok,Yok,Hayır,,Kat Mülkiyetli,Mimar Sinan,ikinci el
+7250000,130,110,3+1,31,4,4,Doğalgaz,Var,1,Yok,Yok,Hayır,,Kat Mülkiyetli,Mimar Sinan,ikinci el
+5800000,68,58,2+1,0,-1,4,Doğalgaz,Var,1,Var,Yok,Hayır,,Kat İrtifaklı,Mimar Sinan,ikinci el
+4350000,80,70,2+1,31,2,4,Doğalgaz,Var,2,Yok,Yok,Hayır,,Kat İrtifaklı,Mimar Sinan,ikinci el
+6950000,82,61,2+1,0,1,5,Yerden Isıtmalı,Yok,2,Var,Var,Hayır,,Kat Mülkiyetli,Mimar Sinan,sıfır
+4650000,135,110,3+1,26,3,6,Doğalgaz,Var,2,Yok,Yok,Hayır,,Kat İrtifaklı,Mimar Sinan,ikinci el
+12000000,142,122,3+1,0,3,7,Doğalgaz,Var,2,Var,yok,Hayır,,Kat Mülkiyetli,Mimar Sinan,sıfır
+14250000,150,115,4+2,0,6,6,Doğalgaz,Var,2,Var,Var,Hayır,,Kat Mülkiyetli,Mimar Sinan,sıfır
+3000000,85,80,2+1,31,4,4,Doğalgaz,Var,1,Yok,Yok,Hayır,50,Kat Mülkiyetli,Mimar Sinan,ikinci el
+15000000,200,180,5+2,0,4,4,Doğalgaz,Var,2,Var,Yok,Hayır,,Kat Mülkiyetli,Mimar Sinan,sıfır
+11750000,90,80,2+1,0,4,5,Doğalgaz,Var,1,Var,Var,Hayır,,Kat İrtifaklı,Mimar Sinan,sıfır
+1485000,50,45,1+1,11,0,4,Doğalgaz,Var,2,Yok,Yok,Hayır,100,Kat İrtifaklı,Mimar Sinan,ikinci el
+5800000,120,105,4+1,2,1,4,Doğalgaz,Var,2,Var,Yok,Hayır,,Kat Mülkiyetli,Mimar Sinan,sıfır
+14000000,145,125,3+1,16,2,5,Doğalgaz,Var,1,Var,Var,Hayır,200,Kat İrtifaklı,Mimar Sinan,ikinci el
+4550000,110,105,2+1,31,0,4,Doğalgaz,Var,1,Yok,Yok,Hayır,,Kat Mülkiyetli,Mimar Sinan,ikinci el
+5500000,115,110,3+1,31,4,4,Doğalgaz,Var,2,Yok,Yok,Hayır,200,Kat Mülkiyetli,Mimar Sinan,ikinci el
+13500000,142,122,3+1,0,3,7,Doğalgaz,Var,1,Var,Yok,Hayır,,Kat Mülkiyetli,Mimar Sinan,sıfır
+2750000,80,65,2+1,31,0,5,Doğalgaz,Var,2,Yok,Var,Hayır,0,Arsa Tapulu,Mimar Sinan,ikinci el
+6700000,180,170,4+1,16,3,3,Doğalgaz,Yok,1,Yok,Yok,Hayır,0,Müstakil Tapulu,Mimar Sinan,ikinci el
+2700000,90,80,2+1,31,2,3,Doğalgaz,Var,1,Yok,Yok,Hayır,,Kat Mülkiyetli,Mimar Sinan,ikinci el
+6250000,75,70,2+1,0,2,3,Doğalgaz,Var,1,Var,Yok,Hayır,,Kat Mülkiyetli,Mimar Sinan,sıfır
+2525000,65,50,1+1,11,0,4,Doğalgaz,Var,2,Yok,Yok,Hayır,,Kat Mülkiyetli,Mimar Sinan,ikinci el
+34000000,213,142,4+1,3,3,6,Doğalgaz,Var,2,Var,Var,Evet,,Kat Mülkiyetli,Mimar Sinan,sıfır
+13750000,135,114,3+2,0,5,5,Doğalgaz,Var,2,Var,Yok,Hayır,,Kat Mülkiyetli,Mimar Sinan,sıfır
+10950000,160,130,3+2,0,4,4,Doğalgaz,Var,2,Var,Var,Hayır,,Kat Mülkiyetli,Mimar Sinan,sıfır
+7150000,67,66,2+1,0,0,6,Doğalgaz,Yok,1,Var,Yok,Hayır,,Kat Mülkiyetli,Mimar Sinan,sıfır
+6500000,150,140,3+1,31,2,5,Doğalgaz,Var,1,Yok,Var,Hayır,200,Kat Mülkiyetli,Mimar Sinan,ikinci el
+12800000,120,105,2+1,3,1,10,Doğalgaz,Var,2,Var,Var,Evet,,Kat Mülkiyetli,Mimar Sinan,sıfır
+7100000,80,75,2+1,0,3,4,Doğalgaz,Yok,1,Var,Var,Hayır,,Kat İrtifaklı,Mimar Sinan,ikinci el
+15500000,70,56,2+1,0,2,6,Doğalgaz,,1,Var,Var,Evet,,Kat Mülkiyetli,Acıbadem,sıfır
+10000000,89,72,1+1,16,1,6,Doğalgaz,Var,2,Var,Var,Evet,3600,Kat Mülkiyetli,Acıbadem,ikinci el
+17250000,143,115,3+1,0,2,4,Doğalgaz,Var,2,Var,Var,Hayır,,Kat İrtifaklı,Acıbadem,sıfır
+11500000,107,61,2+1,0,2,10,Doğalgaz,Var,2,Var,Var,Evet,0,Kat Mülkiyetli,Acıbadem,sıfır
+13200000,96,86,2+1,0,1,7,Yerden Isıtmalı,Var,2,Var,Var,Hayır,,Kat Mülkiyetli,Acıbadem,sıfır
+13662000,103,93,2+1,0,0,7,Yerden Isıtmalı,Yok,2,Var,Var,Hayır,,Kat Mülkiyetli,Acıbadem,sıfır
+14467000,96,86,2+1,0,3,7,Yerden Isıtmalı,Var,2,Var,Var,Hayır,,Kat Mülkiyetli,Acıbadem,sıfır
+26680000,165,145,3+1,0,6,7,Yerden Isıtmalı,Var,2,Var,Var,Hayır,,Kat Mülkiyetli,Acıbadem,sıfır
+12000000,75,65,2+1,0,1,6,Yerden Isıtmalı,Yok,1,Var,Var,Hayır,,Kat İrtifaklı,Acıbadem,sıfır
+19650000,169,123,4+1,0,4,4,Yerden Isıtmalı,Var,3,Var,Var,Evet,,Kat Mülkiyetli,Acıbadem,sıfır
+16500000,121,85,2.5+1,11,14,30,Doğalgaz,Yok,3,Var,Var,Evet,,Kat Mülkiyetli,Acıbadem,ikinci el
+31900000,200,160,4+1,11,5,6,Doğalgaz,Yok,2,Var,Var,Evet,7800,Kat Mülkiyetli,Acıbadem,ikinci el
+20625000,155,140,4+1,0,2,5,Doğalgaz,Var,2,Var,Var,Hayır,,Kat İrtifaklı,Acıbadem,sıfır
+10000000,77,62,2+1,0,2,5,Yerden Isıtmalı,Var,1,Var,Var,Evet,,Kat Mülkiyetli,Acıbadem,sıfır
+53900000,240,200,4+1,16,3,6,Doğalgaz,Var,2,Var,var,Evet,9800,Kat Mülkiyetli,Acıbadem,ikinci el
+19000000,130,100,3+1,5,0,9,Doğalgaz,Yok,2,Var,Var,Evet,,Kat Mülkiyetli,Acıbadem,ikinci el
+16500000,120,80,2.5+1,11,17,30,Doğalgaz,Yok,2,Var,Var,Evet,,Kat Mülkiyetli,Acıbadem,ikinci el
+12500000,118,94,3+1,0,0,4,Doğalgaz,Var,1,Var,Var,Hayır,,Kat Mülkiyetli,Acıbadem,sıfır
+12400000,100,66,2+1,0,2,5,Doğalgaz,Var,1,Var,Var,Evet,,Kat Mülkiyetli,Acıbadem,sıfır
+12475000,100,90,3+1,0,2,5,Doğalgaz,Var,2,Var,Var,Hayır,,Kat Mülkiyetli,Acıbadem,sıfır
+12900000,260,180,5+1,21,5,5,Doğalgaz,Var,2,Var,Var,Hayır,1000,Kat Mülkiyetli,Acıbadem,ikinci el
+7750000,80,76,2+1,0,0,5,Doğalgaz,Var,1,Var,Var,Hayır,,Kat İrtifaklı,Acıbadem,sıfır
+23475000,177,140,4+1,0,4,5,Yerden Isıtmalı,Var,3,Var,Var,Evet,,Kat İrtifaklı,Acıbadem,sıfır
+9700000,80,60,2+1,0,3,7,Yerden Isıtmalı,Var,1,Var,Var,Evet,3800,Kat Mülkiyetli,Acıbadem,sıfır
+28000000,180,136,4+1,0,0,7,Yerden Isıtmalı,Var,3,Var,Var,Evet,3800,Kat Mülkiyetli,Acıbadem,sıfır
+13950000,150,127,4+1,16,1,4,Doğalgaz,Var,2,Var,Var,Hayır,700,Kat İrtifaklı,Acıbadem,ikinci el
+18250000,190,172,4+2,0,0,4,Doğalgaz,Var,4,Var,Var,Hayır,,Kat İrtifaklı,Acıbadem,sıfır
+6350000,53,34,1+1,0,5,5,Doğalgaz,Yok,1,Var,Var,Hayır,,Arsa Tapulu,Acıbadem,sıfır
+18950000,174,145,3+1,0,4,4,Doğalgaz,Var,3,Var,Var,Evet,,Arsa Tapulu,Acıbadem,sıfır
+8900000,88,72,2+1,0,1,4,Doğalgaz,Var,1,Var,Var,Evet,,Arsa Tapulu,Acıbadem,sıfır
+15250000,275,250,5+1,21,4,5,Doğalgaz,Var,4,Var,Var,Hayır,,Kat İrtifaklı,Acıbadem,ikinci el
+40000000,226,209,4+2,0,6,6,Yerden Isıtmalı,Var,3,Var,Var,Hayır,,Kat Mülkiyetli,Acıbadem,sıfır
+40000000,200,180,4+1,0,0,6,Yerden Isıtmalı,Var,4,Var,Var,Hayır,,Kat İrtifaklı,Acıbadem,sıfır
+10600000,105,91,3+1,0,1,5,Doğalgaz,Var,2,Var,Var,Hayır,0,Kat Mülkiyetli,Acıbadem,sıfır
+11680000,100,80,2+1,0,4,4,Doğalgaz,Var,1,Var,Var,Hayır,,Kat Mülkiyetli,Acıbadem,sıfır
+8850000,125,110,3+1,21,3,5,Doğalgaz,Var,1,Var,Var,Hayır,,Kat İrtifaklı,Acıbadem,ikinci el
+10250000,77,62,2+1,0,2,5,Yerden Isıtmalı,Var,1,Var,Var,Evet,3800,Kat İrtifaklı,Acıbadem,sıfır
+6600000,75,60,2+1,0,0,4,Doğalgaz,Var,1,Var,Var,Hayır,,Kat Mülkiyetli,Acıbadem,sıfır
+13750000,127,110,3+1,0,2,5,Doğalgaz,Var,2,Var,Var,Hayır,,Kat İrtifaklı,Acıbadem,sıfır
+23475000,177,140,4+1,0,4,5,Yerden Isıtmalı,Var,3,Var,var,Evet,,Kat İrtifaklı,Acıbadem,sıfır
+13650000,115,100,3+1,4,1,4,Doğalgaz,Var,1,Var,Var,Hayır,,Kat İrtifaklı,Acıbadem,ikinci el
+7800000,130,120,3+1,26,4,4,Doğalgaz,Var,1,Yok,Var,Hayır,,Kat Mülkiyetli,Acıbadem,ikinci el
+19500000,180,137,4+1,0,4,4,Doğalgaz,Var,2,Var,Var,Hayır,,Kat Mülkiyetli,Acıbadem,sıfır
+18000000,155,125,3+1,11,3,4,Doğalgaz,Var,2,Var,Var,Hayır,,Kat Mülkiyetli,Acıbadem,ikinci el
+9800000,74,58,2+1,0,3,5,Yerden Isıtmalı,Var,1,Var,Var,Evet,,Kat Mülkiyetli,Acıbadem,sıfır
+4600000,90,85,2+1,16,0,5,Doğalgaz,Var,1,Yok,Yok,Hayır,,Kat Mülkiyetli,İcadiye,ikinci el
+10750000,107,71,2+1,0,3,5,Doğalgaz,Var,1,Var,Var,Hayır,,Kat Mülkiyetli,İcadiye,sıfır
+2625000,55,50,1+1,31,2,4,Doğalgaz,Var,1,Yok,Yok,Hayır,,Kat İrtifaklı,İcadiye,ikinci el
+4400000,80,75,2+1,31,4,4,Doğalgaz,Var,1,Yok,Yok,Hayır,,Kat Mülkiyetli,İcadiye,ikinci el
+4000000,61,46,1+1,0,0,5,Doğalgaz,Yok,1,Var,Yok,Hayır,,Kat İrtifaklı,İcadiye,sıfır
+2875000,80,70,2+1,31,4,6,Doğalgaz,Yok,1,Yok,Yok,Hayır,,Arsa Tapulu,İcadiye,ikinci el
+6200000,95,90,3+1,31,5,5,Doğalgaz,Var,2,Yok,Yok,Hayır,,Kat Mülkiyetli,İcadiye,ikinci el
+3150000,85,75,3+1,31,0,4,Doğalgaz,Yok,1,Yok,Yok,Hayır,,Kat Mülkiyetli,İcadiye,ikinci el
+8975000,155,125,3+1,26,5,5,Doğalgaz,Var,2,Var,Yok,Hayır,,Kat İrtifaklı,İcadiye,ikinci el
+9750000,90,80,2+1,0,2,5,Doğalgaz,Var,1,Yok,Yok,Hayır,,Kat Mülkiyetli,İcadiye,sıfır
+5750000,70,62,2+1,0,-1,6,Doğalgaz,Yok,1,Var,Yok,Hayır,,Kat İrtifaklı,İcadiye,sıfır
+5400000,110,80,3+1,31,3,4,Doğalgaz,Var,1,Yok,Yok,Hayır,100,Kat Mülkiyetli,İcadiye,ikinci el
+2750000,66,55,1+1,16,0,4,Doğalgaz,Yok,1,Yok,Var,Hayır,0,Kat Mülkiyetli,İcadiye,ikinci el
+5450000,120,90,2+1,31,2,5,Doğalgaz,Var,1,Yok,Yok,Hayır,100,Kat Mülkiyetli,İcadiye,ikinci el
+6750000,140,120,3+1,31,0,5,Doğalgaz,Var,1,Yok,Yok,Hayır,,Kat Mülkiyetli,İcadiye,ikinci el
+6500000,90,85,2+1,31,0,4,Doğalgaz,Var,1,Yok,Yok,Hayır,120,Kat Mülkiyetli,İcadiye,ikinci el
+9200000,90,80,2+1,0,1,4,Doğalgaz,Var,1,Var,Var,Hayır,,Kat İrtifaklı,İcadiye,sıfır
+6000000,100,90,3+1,0,-1,6,Doğalgaz,Var,1,Var,Yok,Hayır,,Kat İrtifaklı,İcadiye,sıfır
+7000000,130,115,3+1,26,0,4,Doğalgaz,Var,1,Var,Yok,Hayır,,Kat Mülkiyetli,İcadiye,ikinci el
+1900000,40,31,1+1,31,0,4,Yok,Var,1,Yok,Yok,Hayır,125,Kat Mülkiyetli,İcadiye,ikinci el
+10250000,120,105,3+1,0,1,4,Doğalgaz,Var,2,Var,Var,Hayır,,Kat Mülkiyetli,İcadiye,sıfır
+5000000,125,95,3+1,31,4,4,Doğalgaz,Var,1,Yok,Yok,Hayır,100,Kat Mülkiyetli,İcadiye,ikinci el
+16500000,180,150,4+2,0,4,4,Doğalgaz,Var,2,Var,Var,Hayır,,Kat Mülkiyetli,İcadiye,sıfır
+5250000,89,85,3+1,31,3,5,Doğalgaz,Var,1,Yok,Yok,Hayır,150,Kat Mülkiyetli,İcadiye,ikinci el
+13500000,160,140,4+1,0,3,4,Doğalgaz,Var,2,Var,Yok,Hayır,,Kat Mülkiyetli,İcadiye,sıfır
+5900000,90,80,2+1,0,0,4,Doğalgaz,Var,1,Var,Var,Hayır,,Kat İrtifaklı,İcadiye,sıfır
+3000000,85,70,2+1,31,0,5,Doğalgaz,Yok,1,Yok,Yok,Hayır,45,Kat Mülkiyetli,İcadiye,ikinci el
+7500000,110,100,2+1,31,2,4,Doğalgaz,Var,1,Yok,Yok,Hayır,,Kat Mülkiyetli,İcadiye,ikinci el
+5800000,85,80,2+1,21,1,5,Doğalgaz,Var,1,Yok,Yok,Hayır,100,Kat İrtifaklı,İcadiye,ikinci el
+4700000,90,,2+1,31,4,4,Doğalgaz,Var,1,Yok,Yok,Hayır,,Kat İrtifaklı,İcadiye,ikinci el
+6000000,100,90,2+1,0,-1,5,Doğalgaz,Var,1,Var,Var,Hayır,,Kat Mülkiyetli,İcadiye,sıfır
+5950000,125,115,3+1,31,2,5,Doğalgaz,Var,1,Yok,Yok,Hayır,150,Kat Mülkiyetli,İcadiye,ikinci el
+9550000,100,90,3+1,0,0,6,Doğalgaz,Var,1,Var,Yok,Hayır,,Kat İrtifaklı,İcadiye,sıfır
+7400000,110,100,3+1,31,1,6,Doğalgaz,Yok,2,Yok,Yok,Hayır,,Müstakil Tapulu,İcadiye,ikinci el
+4500000,120,100,2+1,31,-1,6,Doğalgaz,Var,1,Yok,var,Hayır,60,Kat Mülkiyetli,İcadiye,ikinci el
+5950000,125,115,3+1,31,2,5,Doğalgaz,Var,1,Yok,Yok,Hayır,,Kat Mülkiyetli,İcadiye,ikinci el
+12750000,270,260,6+2,26,4,5,Doğalgaz,Var,2,Yok,Yok,Hayır,100,Kat Mülkiyetli,İcadiye,ikinci el
+13500000,160,145,4+1,0,4,4,Doğalgaz,Var,2,Var,Yok,Hayır,,Kat Mülkiyetli,İcadiye,sıfır
+2850000,60,55,2+1,31,4,5,Doğalgaz,Yok,1,Yok,Yok,Hayır,50,Kat Mülkiyetli,İcadiye,ikinci el
+8200000,73,63,2+1,0,1,4,Doğalgaz,Var,2,Var,Var,Hayır,,Kat Mülkiyetli,İcadiye,sıfır
+3995000,85,70,1+1,31,4,4,Doğalgaz,Var,1,Yok,Var,Hayır,0,Kat Mülkiyetli,İcadiye,ikinci el
+2550000,79,74,2+1,31,-1,5,Doğalgaz,Var,1,Yok,Yok,Hayır,250,Kat Mülkiyetli,İcadiye,ikinci el
+7650000,120,110,3+1,31,5,5,Doğalgaz,Var,1,Yok,Yok,Hayır,250,Kat Mülkiyetli,İcadiye,ikinci el
+13500000,180,165,4+1,0,4,4,Doğalgaz,Var,2,Var,Yok,Hayır,,Kat Mülkiyetli,İcadiye,sıfır
+15750000,150,130,3+1,3,4,4,Doğalgaz,Var,2,Yok,Yok,Hayır,,Kat Mülkiyetli,İcadiye,ikinci el
+4700000,70,60,1+1,0,0,5,Doğalgaz,Var,1,Var,Yok,Hayır,,Kat Mülkiyetli,İcadiye,sıfır
+8000000,140,130,4+1,31,4,4,Doğalgaz,Var,1,Yok,Yok,Hayır,100,Kat Mülkiyetli,İcadiye,ikinci el
+6950000,120,110,3+1,31,4,4,Doğalgaz,Var,1,Yok,Yok,Hayır,,Kat Mülkiyetli,İcadiye,ikinci el
+19200000,145,125,3+1,16,3,5,Doğalgaz,Var,2,Var,Var,Hayır,500,Kat Mülkiyetli,İcadiye,ikinci el
+4400000,80,75,2+1,31,3,3,Doğalgaz,Var,1,Yok,yok,Hayır,,Kat Mülkiyetli,İcadiye,ikinci el
+9500000,115,110,3+1,2,3,6,,Var,2,Var,Var,Hayır,350,Kat Mülkiyetli,Çengelköy,sıfır
+85000000,350,326,5+2,1,3,3,Doğalgaz,Var,2,Var,Var,Hayır,,Kat İrtifaklı,Çengelköy,sıfır
+15250000,288,233,4+1,2,6,7,Doğalgaz,Var,2,Var,Var,Evet,,Kat İrtifaklı,Çengelköy,sıfır
+57000000,390,350,5+2,0,3,4,Doğalgaz,Var,4,Var,Var,Hayır,350,Kat Mülkiyetli,Çengelköy,sıfır
+7750000,135,105,3+1,31,1,4,Doğalgaz,Var,1,Yok,Yok,Hayır,1000,Kat Mülkiyetli,Çengelköy,ikinci el
+5950000,85,80,2+1,31,4,4,Doğalgaz,Var,1,Yok,Yok,Hayır,,Kat Mülkiyetli,Çengelköy,ikinci el
+2380000,85,75,2+1,31,-2,3,Doğalgaz,Var,1,Yok,Yok,Hayır,,Hisseli Tapu,Çengelköy,ikinci el
+8350000,135,125,3+1,0,3,6,Doğalgaz,Var,2,Var,Var,Hayır,,Kat Mülkiyetli,Çengelköy,sıfır
+6900000,126,101,3+1,21,1,5,Doğalgaz,Yok,1,Yok,Var,Evet,,Kat Mülkiyetli,Çengelköy,ikinci el
+6250000,135,115,3+1,26,3,4,Doğalgaz,Var,1,Yok,Var,Evet,,Kat İrtifaklı,Çengelköy,ikinci el
+3150000,65,60,1+1,31,0,5,Doğalgaz,Yok,1,Yok,Yok,Hayır,,Kat İrtifaklı,Çengelköy,ikinci el
+12000000,145,115,3+1,26,3,7,Doğalgaz,Var,1,Var,Var,Hayır,,Kat Mülkiyetli,Çengelköy,ikinci el
+37500000,195,155,4+1,6,0,3,Doğalgaz,Var,2,Var,Var,Evet,,Kat Mülkiyetli,Çengelköy,ikinci el
+8500000,120,110,3+1,1,2,7,Doğalgaz,Var,2,Var,Var,Hayır,,Hisseli Tapu,Çengelköy,sıfır
+15200000,130,93,3+2,31,6,7,Doğalgaz,Var,1,Var,Var,Hayır,700,Kat Mülkiyetli,Çengelköy,ikinci el
+11000000,165,130,3+1,26,2,4,Doğalgaz,Var,1,Var,Var,Evet,7200,Kooperatif Hisseli Tapu,Çengelköy,ikinci el
+26000000,226,127,2+1,11,3,3,Doğalgaz,Var,2,Var,Var,Evet,,Kat Mülkiyetli,Çengelköy,ikinci el
+21000000,120,100,3+1,0,2,4,Doğalgaz,Var,2,Yok,Yok,Hayır,,Kat Mülkiyetli,Çengelköy,sıfır
+11750000,130,120,3+2,31,2,8,Doğalgaz,Yok,1,Var,Var,Hayır,,Kat Mülkiyetli,Çengelköy,ikinci el
+11000000,125,115,3+1,5,1,5,Doğalgaz,Var,2,Var,Var,Hayır,100,Kat Mülkiyetli,Çengelköy,sıfır
+4650000,175,162,3+1,26,1,5,Doğalgaz,Var,2,Yok,Yok,Hayır,,Hisseli Tapu,Çengelköy,ikinci el
+23500000,130,115,3+1,31,2,2,Doğalgaz,Var,2,Yok,Yok,Hayır,,Kat Mülkiyetli,Çengelköy,ikinci el
+15000000,100,85,2+1,1,1,4,Yerden Isıtma,Var,1,Var,Var,Evet,5000,Kat Mülkiyetli,Çengelköy,sıfır
+5500000,135,110,3+1,31,4,4,Doğalgaz,Var,1,Yok,Var,Hayır,,Arsa Tapulu,Çengelköy,ikinci el
+5500000,85,72,2+1,31,2,4,Doğalgaz,Var,1,Yok,Yok,Hayır,,Kat Mülkiyetli,Çengelköy,ikinci el
+4750000,95,90,2+1,21,0,5,Doğalgaz,Var,1,Yok,Var,Evet,,Kat Mülkiyetli,Çengelköy,ikinci el
+15700000,150,130,3+1,0,4,7,Yerden Isıtma,Var,2,Var,Var,Hayır,0,Kat Mülkiyetli,Çengelköy,sıfır
+2750000,90,70,2+1,26,4,6,Doğalgaz,Var,1,Var,Yok,Hayır,,Hisseli Tapu,Çengelköy,ikinci el
+8500000,120,100,3+1,1,2,5,Doğalgaz,Var,1,Var,Var,Hayır,,Kat Mülkiyetli,Çengelköy,sıfır
+15750000,160,150,4+1,5,3,3,Doğalgaz,Var,2,Var,Var,Hayır,,Kat Mülkiyetli,Çengelköy,sıfır
+8390000,125,115,3+1,0,2,5,,Var,2,Var,Var,Hayır,,Kat Mülkiyetli,Çengelköy,sıfır
+14900000,300,245,4+1,21,6,6,Doğalgaz,Yok,2,Var,Var,Evet,,Kooperatif Hisseli Tapu,Çengelköy,ikinci el
+18750000,175,127,3+1,0,3,5,Doğalgaz,Var,2,Var,Var,Hayır,,Kat Mülkiyetli,Çengelköy,sıfır
+14000000,200,180,4+1,0,4,5,Doğalgaz,Var,2,Var,Var,Hayır,,Kat İrtifaklı,Çengelköy,sıfır
+12150000,100,70,2+1,31,1,3,Doğalgaz,Yok,1,Yok,Yok,Hayır,,Kat Mülkiyetli,Çengelköy,ikinci el
+12000000,94,85,3+1,0,1,7,Doğalgaz,Var,2,Var,Var,Hayır,,Kat İrtifaklı,Çengelköy,sıfır
+42950000,200,190,4+1,5,0,3,Doğalgaz,Var,2,Var,Var,Evet,6000,Kat Mülkiyetli,Çengelköy,sıfır
+15750000,126,103,3+1,0,3,6,Yerden Isıtma,Var,2,Var,Var,Hayır,,Kat Mülkiyetli,Çengelköy,sıfır
+8200000,130,113,3+1,0,2,5,Doğalgaz,Yok,2,Var,Var,Hayır,,Kat İrtifaklı,Çengelköy,sıfır
+13000000,125,100,3+1,2,2,4,Doğalgaz,Var,2,Var,Var,Hayır,600,Kat Mülkiyetli,Çengelköy,sıfır
+7170000,115,100,2+1,1,1,6,Doğalgaz,Yok,1,Var,Var,Hayır,,Kat Mülkiyetli,Çengelköy,sıfır
+12500000,145,125,3+1,26,3,4,Doğalgaz,Var,1,Var,Var,Evet,,Kooperatif Hisseli Tapu,Çengelköy,ikinci el
+15000000,160,135,4+1,1,1,6,Doğalgaz,Var,2,Var,Var,Hayır,,Kat Mülkiyetli,Çengelköy,sıfır
+10200000,200,170,4+2,1,6,6,Doğalgaz,Var,2,Var,Var,Hayır,,Kat Mülkiyetli,Çengelköy,sıfır
+4800000,95,90,2+1,21,0,5,Doğalgaz,Var,1,Yok,Var,Evet,,Kat Mülkiyetli,Çengelköy,ikinci el
+6750000,95,85,2+1,31,3,4,Doğalgaz,Yok,1,Yok,Yok,Hayır,100,Kat Mülkiyetli,Çengelköy,ikinci el
+4750000,85,70,2+1,26,1,4,Doğalgaz,Yok,1,Yok,Var,Hayır,,Hisseli Tapu,Çengelköy,ikinci el
+7500000,124,101,3+1,22,3,5,Doğalgaz,Var,1,Yok,Var,Evet,,Kat Mülkiyetli,Çengelköy,ikinci el
+3590000,70,65,2+1,31,3,4,Doğalgaz,Var,1,Yok,Yok,Hayır,,Kat İrtifaklı,Çengelköy,ikinci el
+11500000,145,135,3+1,26,2,4,Doğalgaz,Var,2,Var,Var,Evet,,Hisseli Tapu,Çengelköy,ikinci el
+4000000,75,65,2+1,1,-1,4,Doğalgaz,Yok,1,Var,Yok,Hayır,,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
+32500000,155,140,3+1,0,5,5,Doğalgaz,Var,3,Var,Yok,Hayır,,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
+7750000,99,80,3+1,0,1,5,Doğalgaz,Var,1,Var,Yok,Hayır,200,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
+4800000,115,85,3+1,31,3,5,Doğalgaz,Var,2,Yok,Yok,Hayır,,Kat İrtifaklı,Sultantepe Mah.,ikinci el
+7200000,75,48,1+1,0,Bahçe Katı,5,Doğalgaz,Var,1,Var,Var,Hayır,,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
+7750000,99,80,3+1,0,1,6,Doğalgaz,Var,1,Var,Yok,Hayır,,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
+28000000,300,214,5+1,26,4,4,Doğalgaz,Var,3,Yok,Var,Hayır,,Kat İrtifaklı,Sultantepe Mah.,ikinci el
+50000000,90,77,2+1,0,3,4,,Var,1,Var,Var,Hayır,500,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
+9000000,100,95,2+1,0,1,4,Doğalgaz,Var,1,Var,Var,Hayır,,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
+24200000,290,240,6+2,26,5,5,Doğalgaz,Var,2,Var,Var,Hayır,,Kat Mülkiyetli ,Sultantepe Mah.,ikinci el
+16650000,83,80,2+1,2,1,4,Yerden Isıtma,Var,1,Var,Var,Hayır,500,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
+6800000,73,60,2+1,0,1,7,Doğalgaz,Yok,1,Var,Var,Hayır,,Kat İrtifaklı,Sultantepe Mah.,sıfır
+3100000,80,70,2+1,21,1,5,Doğalgaz,Var,1,Yok,Yok,Hayır,80,Kat İrtifaklı,Sultantepe Mah.,ikinci el
+7000000,99,61,2+1,0,Bahçe Katı,4,Doğalgaz,Yok,1,Var,Yok,Hayır,,Kat İrtifaklı,Sultantepe Mah.,sıfır
+5950000,110,100,3+1,31,2,4,Doğalgaz,Var,2,Yok,Yok,Hayır,200,Kat Mülkiyetli ,Sultantepe Mah.,ikinci el
+4250000,80,70,2+1,5,0,5,Doğalgaz,Yok,1,Var,Var,Hayır,,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
+32000000,155,140,3+2,0,7,7,Doğalgaz,Var,2,Var,Yok,Hayır,,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
+5250000,135,115,3+1,26,5,6,Doğalgaz,Var,1,Yok,Yok,Hayır,50,Kat İrtifaklı,Sultantepe Mah.,ikinci el
+7750000,100,90,3+1,0,2,5,Doğalgaz,Var,1,Var,Yok,Hayır,,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
+35000000,462,440,6+2,110,Köşk,5,Yok,Var,4,Yok,Yok,Hayır,,Arsa Tapulu ,Sultantepe Mah.,ikinci el
+2700000,110,90,3+1,31,-2,7,Doğalgaz,Var,1,Yok,Yok,Hayır,50,Kat Mülkiyetli ,Sultantepe Mah.,ikinci el
+25000000,135,122,3+1,0,2,4,Doğalgaz,Var,2,Var,Var,Hayır,500,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
+11950000,156,100,3+1,0,2,5,Doğalgaz,Var,1,Var,Var,Hayır,250,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
+17800000,160,138,3+1,31,0,6,Doğalgaz,Var,2,Yok,Yok,Hayır,,Kat Mülkiyetli ,Sultantepe Mah.,ikinci el
+6790000,91,76,2+1,1,3,5,Doğalgaz,Var,1,Var,Yok,Hayır,200,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
+33000000,281,193,6+1,0,5,5,Doğalgaz,Var,2,Var,Var,Hayır,,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
+11950000,156,98,3+1,0,3,6,Doğalgaz,Var,1,Var,Var,Hayır,,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
+7750000,,,,,,,,,,,,,,,,
+12750000,100,95,3+1,0,-1,5,Doğalgaz,Var,1,Var,Var,Hayır,,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
+4250000,115,100,3+1,31,2,4,Doğalgaz,Var,1,Yok,Var,Hayır,,Kat Mülkiyetli ,Sultantepe Mah.,ikinci el
+7750000,99,80,3+1,0,1,6,Doğalgaz,Var,1,Var,Yok,Hayır,,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
+15250000,120,105,3+1,3,2,5,Doğalgaz,Var,2,Var,Var,Hayır,,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
+7750000,110,100,3+1,0,1,4,Doğalgaz,Var,1,Var,Yok,Hayır,,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
+22000000,130,120,3+1,31,5,5,Doğalgaz,Var,1,Yok,Yok,Hayır,500,Kat Mülkiyetli ,Sultantepe Mah.,ikinci el
+4250000,100,90,2+1,31,3,5,Doğalgaz,Var,1,Yok,Yok,Hayır,,Kat İrtifaklı,Sultantepe Mah.,ikinci el
+7750000,120,115,3+1,0,1,4,Doğalgaz,Var,1,Var,Yok,Hayır,200,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
+3600000,75,70,2+1,26,3,4,Doğalgaz,Var,2,Yok,Yok,Hayır,100,Kat Mülkiyetli ,Sultantepe Mah.,ikinci el
+44000000,150,135,4+1,21,3,5,Doğalgaz,Var,1,Var,Var,Hayır,300,Kat İrtifaklı,Sultantepe Mah.,ikinci el
+8500000,100,85,2+1,0,0,5,Doğalgaz,Var,1,Var,Var,Hayır,,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
+2650000,55,50,2+1,31,2,3,Doğalgaz,Var,1,Yok,Yok,Hayır,150,Kat Mülkiyetli ,Sultantepe Mah.,ikinci el
+29600000,140,120,3+1,5,3,4,Doğalgaz,Var,2,Var,Yok,Hayır,,Kat İrtifaklı,Sultantepe Mah.,sıfır
+29700000,120,110,3+1,31,2,5,Doğalgaz,Var,2,Yok,Var,Hayır,,Kat Mülkiyetli ,Sultantepe Mah.,ikinci el
+3000000,70,60,2+1,31,1,4,Doğalgaz,Var,1,Yok,Yok,Hayır,,Kat İrtifaklı,Sultantepe Mah.,ikinci el
+14000000,110,100,3+1,4,3,4,Doğalgaz,Var,1,Var,Var,Hayır,250,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
+7750000,110,100,3+1,0,1,4,Doğalgaz,Var,1,Var,Yok,Hayır,,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
+6000000,100,85,2+1,21,1,4,Doğalgaz,Var,1,Yok,Yok,Hayır,,Kat Mülkiyetli ,Sultantepe Mah.,ikinci el
+45000000,345,245,5+2,0,6,6,Doğalgaz,Var,4,Var,Var,Hayır,,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
+2850000,80,70,2+1,31,0,5,Doğalgaz,Yok,1,Yok,Yok,Hayır,,Kat İrtifaklı,Sultantepe Mah.,ikinci el
+11000000,100,95,3+1,0,-1,4,Doğalgaz,Var,2,Var,Var,Hayır,,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
+45000000,307,239,5+2,0,5,5,Doğalgaz,Var,4,Var,Var,Hayır,,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
+11950000,158,99,3+1,0,3,5,Doğalgaz,Var,1,Var,Var,Hayır,,Kat Mülkiyetli ,Sultantepe Mah.,sıfır
