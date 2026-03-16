@@ -1,6 +1,6 @@
 # 🏠 Üsküdar Konut Durumu Tahminleme (Sıfır vs. İkinci El)
 
-Bu proje, İstanbul'un Üsküdar ilçesinde satılığa çıkarılan konutların çeşitli özelliklerini (fiyat, m², bina yaşı, lokasyon vb.) analiz ederek, konutun **"Sıfır" mı yoksa "İkinci El" mi** olduğunu yüksek doğrulukla tahmin etmeyi amaçlayan bir makine öğrenmesi çalışmasıdır.
+Bu proje, İstanbul'un Üsküdar ilçesinde satılığa çıkarılan konutların çeşitli özelliklerini (fiyat, m², lokasyon vb.) analiz ederek, konutun **"Sıfır" mı yoksa "İkinci El" mi** olduğunu yüksek doğrulukla tahmin etmeyi amaçlayan bir makine öğrenmesi çalışmasıdır.
 
 ---
 
@@ -29,7 +29,7 @@ Gayrimenkul sektöründe konutun durumu, fiyatlandırma ve pazarlama stratejiler
 ### 3. Özellik Seçimi (Feature Selection)
 - Korelasyon matrisi (heatmap) kullanılarak hedef değişkeni en çok etkileyen ve multicollinearity yaratmayan değişkenler seçildi.
   ![Image](https://github.com/user-attachments/assets/783ccc76-c12c-4744-be43-0881b08fffdd) 
-- **Seçilen Özellikler:** `fiyat`, `bina_yasi`, `isitma`, `asansor`, `otopark`.
+- **Seçilen Özellikler:** `fiyat`, `isitma`, `asansor`, `otopark`.
 
 ---
 
